@@ -1,0 +1,1 @@
+pengen mengenbangkan diri sendiridalam bidang qa
