@@ -1,0 +1,4 @@
+username,password,expected_error_msg
+ryan1@example.com,Password123,
+invaliduser@example.com,invalidpassword,Login was unsuccessful. Please correct the errors and try again.
+lockedout@example.com,,Sorry, this user has been locked out.
